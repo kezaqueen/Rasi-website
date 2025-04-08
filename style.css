@@ -19,11 +19,20 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 #contact-Us{
-    background-color: rgb(211, 198, 198);
+    background-color: rgb(158, 156, 156);
     padding: 15px;
     border-radius: 7px;
     margin-bottom: 30px;
-    width: 70px;
+    width: 15%;
+    height: 60px;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+.ul nav{
+    display: flex;
+    justify-content: space-between;
 }
 nav .ul-links a{
     text-decoration: none;
@@ -123,6 +132,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .rasis-array-header{
     justify-items: center;
     padding: 30px;
+    font-size: 30px;
 
 }
 .client-praise{
@@ -163,7 +173,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     padding-bottom: 160px;
 }
 .imagesadvertisement{
-    justify-items: center;
+    margin-left: 60px;
 }
 .showcasing-title{
     justify-items: center;
@@ -194,6 +204,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     margin-left: 120px;
     padding: 25px;
 }
+#RP{
+    margin-top: 50px;
+}
 .footer-class{
     display: flex;
     justify-content: center;
@@ -209,13 +222,16 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     text-align: center;
 }
 .footer{
-    background-color: rgb(0, 0, 36);
+    background-color: rgb(20, 22, 19);
+    margin-top: 10px;
 }
 .details{
     list-style: none;
 }
-.footer-links{
-    list-style: none;
+.footer-links li{
+    list-style-type: none;
+}
+.footer-links a{
     text-decoration: none;
     color: white;
 }
@@ -369,8 +385,6 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         width:100%
     }
     .aditya{
-        border: 1px solid;
-        border-radius: 3px;
         background-color:white;
         padding: 7x;
     }
@@ -419,3 +433,4 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     .footer{
         background-color: rgb(0, 0, 36);
     } 
+}
