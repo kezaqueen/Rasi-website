@@ -1,0 +1,421 @@
+#Rasi-title{
+    text-align: center;
+    background-color: rgb(150, 173, 116);
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    overflow:x hidden;
+}
+.fa-phone-volume{
+    color: white;
+    font-size: 30px;
+}
+#Rasi-heading{
+    color: white;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#contact-Us{
+    background-color: rgb(211, 198, 198);
+    padding: 15px;
+    border-radius: 7px;
+    margin-bottom: 30px;
+    width: 70px;
+}
+nav .ul-links a{
+    text-decoration: none;
+    color:white
+}
+nav .ul-links{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    font-size: 20px;
+}
+.words-onTop-Of-Pillows{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 55px;
+}
+.indias-printing{
+    text-align: center;
+    border-top: solid black;
+    border-bottom: solid black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+.rasi-screening-printing{
+    display: flex;
+    justify-content: space-evenly;
+}
+#Rasi-green{
+    color: rgb(97, 153, 97);
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#timeless-paragraph{
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+#atRasi-paragraph{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#contact-Us2{
+    border-radius: 30%;
+    padding: 15px;
+}
+#knowMore{
+    border-radius: 30%;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    background-color: rgb(142, 221, 142);
+}
+.rasi-title{
+    background-image: url(images/green-pillow.png);
+    background-size: cover;
+    height: 100vh;
+}
+.premium-quality{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    background-color: rgb(216, 235, 228);
+    padding: 50px;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+.trophy{
+    display: flex;
+}
+.eco-friendly{
+    display: flex;
+}
+.shipping{
+    display: flex;
+}
+.tick{
+    display: flex;
+}
+.dive-paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.Rasis-Array{
+display: flex;
+justify-content: space-around;
+font-size: 26px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rasis-array-header{
+    justify-items: center;
+    padding: 30px;
+
+}
+.client-praise{
+    justify-items: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.client-praise-icon{
+    display: flex;
+    gap:120px;
+    justify-content: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.aditya{
+    border-radius: 3px;
+    background-color:white;
+    padding: 7x;
+}
+.high-quality{
+    display:flex;
+    justify-content: space-around;
+    padding: 90px;
+    font-size: 30px;
+}
+#high-quality-title{
+    font-size: 40px;
+    font-weight: 10px;
+}
+.fa-star{
+    color: rgb(130, 216, 130);
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    gap:100px;
+    padding-top: 60px;
+    padding-bottom: 160px;
+}
+.imagesadvertisement{
+    justify-items: center;
+}
+.showcasing-title{
+    justify-items: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+#lady-withApink-cloth{
+    justify-items: center;
+    display: flex;
+}
+.map{
+    background-image: url(https://eis.sa.com/assets/customer_assets/images/map1.png);
+    background-size: cover;
+    height: 90vh;
+   
+}
+.Reach-out{
+    justify-items: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.phonenumber{
+    background-color: white;
+    width: 30%;
+    font-size: 25px;
+    border-radius: 20px;
+    margin-left: 120px;
+    padding: 25px;
+}
+.footer-class{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: rgb(211, 197, 197);
+    font-size: 20px;
+
+}
+.copyright{
+    border-top: solid rgb(197, 195, 195);
+    color: rgb(165, 163, 163);
+    font-size: 20px;
+    text-align: center;
+}
+.footer{
+    background-color: rgb(0, 0, 36);
+}
+.details{
+    list-style: none;
+}
+.footer-links{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+@media screen and (min-width : 320px) and (max-width: 857px){
+    #Rasi-title{
+        text-align: center;
+        background-color: rgb(150, 173, 116);
+        padding: 20px;
+        color: white;
+        font-size: 30px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .fa-phone-volume{
+        color: white;
+        font-size: 30px;
+    }
+    #Rasi-heading{
+        color: white;
+        font-size: 20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    #contact-Us{
+        background-color: rgb(211, 198, 198);
+        padding: 15px;
+        border-radius: 7px;
+        margin-bottom: 30px;
+        width: 70x;
+    }
+    nav .ul-links a{
+        text-decoration: none;
+        color:white
+    }
+    nav .ul-links{
+        display: block;
+        gap: 20px;
+        list-style-type: none;
+        font-size: 20px;
+    }
+    .words-onTop-Of-Pillows{
+        color: white;
+        text-align: center;
+        margin-top: 200px;
+        font-size: 55px;
+    }
+    .indias-printing{
+        text-align: center;
+        border-top: solid black;
+        border-bottom: solid black;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        
+    }
+    .rasi-screening-printing{
+        justify-content: space-evenly;
+        display: block
+        
+    }
+    #pillow-onBed{
+        width: 100%;
+    }
+    #Rasi-green{
+        color: rgb(97, 153, 97);
+        font-size: 20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    #timeless-paragraph{
+        font-size: 50px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        
+    }
+    #atRasi-paragraph{
+        font-size: 20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    #contact-Us2{
+        border-radius: 30%;
+        padding: 15px;
+    }
+    #knowMore{
+        border-radius: 30%;
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 80px;
+        background-color: rgb(142, 221, 142);
+    }
+    .rasi-title{
+        background-image: url(images/green-pillow.png);
+        background-size: cover;
+        height: 100vh;
+    }
+    .premium-quality{
+        display: block;
+        justify-content: space-between;
+        justify-content: space-around;
+        background-color: rgb(216, 235, 228);
+        padding: 50px;
+        font-size: 25px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+    h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+    }
+    .trophy{
+        display:block;
+    }
+    .eco-friendly{
+        display:block;
+    }
+    .shipping{
+        display:block;
+    }
+    .tick{
+        display:block;
+    }
+    .dive-paragraph{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+    }
+    .Rasis-Array{
+    display:block;
+    justify-content: space-around;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #traditional-textile{
+        width: 100%;
+    }
+    .rasis-array-header{
+        justify-items: center;
+        padding: 30px;
+    
+    }
+    #advanced-uv{
+        width: 100%;
+    }
+    #four-color{
+        width: 100%;
+    }
+    .client-praise{
+        justify-items: center;
+    }
+    .client-praise-icon{
+        display:block;
+        gap:120px;
+        justify-content: center;
+    }
+    #greenpillow{
+        height: 200px;
+        width:100%
+    }
+    .aditya{
+        border: 1px solid;
+        border-radius: 3px;
+        background-color:white;
+        padding: 7x;
+    }
+    .high-quality{
+        display:block;
+        justify-content: space-around;
+        padding: 90px;
+    }
+    .icons{
+        display:block;
+        justify-content: space-around;
+        gap:100px;
+        padding-top: 60px;
+        padding-bottom: 160px;
+    }
+    #imagesadvertisement{
+        text-align: center;
+    }
+    .showcasing-title{
+        justify-items: center;
+    }
+    #lady-withApink-cloth{
+        justify-items: center;
+        display:block;
+    }
+    #ladyWith-pinkcloth{
+        width: 100%;
+    }
+    .map{
+        background-image: url(https://eis.sa.com/assets/customer_assets/images/map1.png);
+        background-size: cover;
+        height: 90vh;
+    }
+    .footer-class{
+        display:block;
+        justify-content: center;
+        justify-content: space-around;
+        color: rgb(211, 197, 197);
+    
+    }
+    .copyright{
+        border-top: solid rgb(197, 195, 195);
+        color: rgb(165, 163, 163);
+        text-align: center;
+    }
+    .footer{
+        background-color: rgb(0, 0, 36);
+    } 
