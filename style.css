@@ -233,30 +233,30 @@ text-align: center;
     text-decoration: none;
     color: white;
 }
-@media screen and (min-width : 320px) and (max-width: 857px){
+@media screen and (min-width : 160px) and (max-width: 857px){
     #Rasi-title{
         text-align: center;
         background-color: rgb(150, 173, 116);
-        padding: 20px;
+        padding: 10px;
         color: white;
-        font-size: 30px;
+        font-size:20px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     .fa-phone-volume{
         color: white;
-        font-size: 30px;
+        font-size:20px;
     }
     #Rasi-heading{
         color: white;
-        font-size: 20px;
+        font-size: 15px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     #contact-Us{
         background-color: rgb(211, 198, 198);
         padding: 15px;
         border-radius: 7px;
-        margin-bottom: 30px;
-        width: 70x;
+        width: 40%;
+        margin-top: auto;
     }
     nav .ul-links a{
         text-decoration: none;
@@ -266,13 +266,13 @@ text-align: center;
         display: block;
         gap: 20px;
         list-style-type: none;
-        font-size: 20px;
+        font-size: 15px;
     }
     .words-onTop-Of-Pillows{
         color: white;
         text-align: center;
         margin-top: 200px;
-        font-size: 55px;
+        font-size: 30px;
     }
     .indias-printing{
         text-align: center;
@@ -280,7 +280,7 @@ text-align: center;
         border-bottom: solid black;
         margin-top: 40px;
         margin-bottom: 40px;
-        font-size: 40px;
+        font-size: 20px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
         
     }
@@ -297,16 +297,16 @@ text-align: center;
     }
     #Rasi-green{
         color: rgb(97, 153, 97);
-        font-size: 20px;
+        font-size: 15px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     #timeless-paragraph{
-        font-size: 50px;
+        font-size: 30px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
         
     }
     #atRasi-paragraph{
-        font-size: 20px;
+        font-size: 15px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
     #contact-Us2{
@@ -336,7 +336,7 @@ text-align: center;
     }
     h1{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 60px;
+        font-size: 40px;
     }
     .trophy{
         display:block;
@@ -364,7 +364,7 @@ text-align: center;
     }
     .rasis-array-header{
         justify-items: center;
-        padding: 30px;
+        padding: 20px;
     
     }
     #advanced-uv{
@@ -410,6 +410,16 @@ text-align: center;
     #lady-withApink-cloth{
         justify-items: center;
         display:block;
+
+    }
+    #clothes-on-hunger{
+        width: 100%;
+    }
+    #bed-with-sheets{
+        width: 100%;
+    }
+    #lady-in-dress{
+        width: 100%;
     }
     #ladyWith-pinkcloth{
         width: 100%;
