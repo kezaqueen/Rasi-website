@@ -172,22 +172,20 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     padding-top: 60px;
     padding-bottom: 160px;
 }
-.imagesadvertisement{
-    margin-left: 60px;
+.imageadvertisement{
+text-align: center;
 }
 .showcasing-title{
     justify-items: center;
     font-size: 30px;
     padding-bottom: 30px;
 }
-#lady-withApink-cloth{
-    justify-items: center;
-    display: flex;
-}
 .map{
-    background-image: url(https://eis.sa.com/assets/customer_assets/images/map1.png);
+    background-image:url(https://eis.sa.com/assets/customer_assets/images/map1.png);
     background-size: cover;
     height: 90vh;
+    border-radius: 20px;
+    
    
 }
 .Reach-out{
@@ -292,6 +290,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         
     }
     #pillow-onBed{
+        width: 100%;
+    }
+    #lady-with-pink-cloth{
         width: 100%;
     }
     #Rasi-green{
