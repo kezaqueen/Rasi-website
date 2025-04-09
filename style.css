@@ -4,10 +4,11 @@
     padding: 20px;
     font-size: 30px;
     color: white;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
 }
 body{
     overflow:x hidden;
+    font-family:"Poppins", sans-serif;
 }
 .fa-phone-volume{
     color: white;
@@ -16,7 +17,7 @@ body{
 #Rasi-heading{
     color: white;
     font-size: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
 }
 #contact-Us{
     background-color: rgb(158, 156, 156);
@@ -57,7 +58,7 @@ nav .ul-links{
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
     
 }
 .rasi-screening-printing{
@@ -67,16 +68,16 @@ nav .ul-links{
 #Rasi-green{
     color: rgb(97, 153, 97);
     font-size: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
 }
 #timeless-paragraph{
     font-size: 50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
     
 }
 #atRasi-paragraph{
     font-size: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:"Poppins", sans-serif;
 }
 #contact-Us2{
     border-radius: 30%;
@@ -101,10 +102,10 @@ nav .ul-links{
     background-color: rgb(216, 235, 228);
     padding: 50px;
     font-size: 25px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family:"Poppins", sans-serif;
 }
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:"Poppins", sans-serif;
     font-size: 60px;
 }
 .trophy{
@@ -113,6 +114,9 @@ h1{
 .eco-friendly{
     display: flex;
 }
+body{
+    font-family: "Poppins", sans-serif;;
+}
 .shipping{
     display: flex;
 }
@@ -120,14 +124,14 @@ h1{
     display: flex;
 }
 .dive-paragraph{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:"Poppins", sans-serif;
     font-size: 30px;
 }
 .Rasis-Array{
 display: flex;
 justify-content: space-around;
 font-size: 26px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: "Poppins", sans-serif;
 }
 .rasis-array-header{
     justify-items: center;
@@ -240,7 +244,7 @@ text-align: center;
         padding: 10px;
         color: white;
         font-size:20px;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:"Poppins", sans-serif;
     }
     .fa-phone-volume{
         color: white;
@@ -249,7 +253,7 @@ text-align: center;
     #Rasi-heading{
         color: white;
         font-size: 15px;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:"Poppins", sans-serif;
     }
     #contact-Us{
         background-color: rgb(211, 198, 198);
@@ -281,7 +285,7 @@ text-align: center;
         margin-top: 40px;
         margin-bottom: 40px;
         font-size: 20px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:"Poppins", sans-serif;
         
     }
     .rasi-screening-printing{
@@ -298,16 +302,15 @@ text-align: center;
     #Rasi-green{
         color: rgb(97, 153, 97);
         font-size: 15px;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:"Poppins", sans-serif;
     }
     #timeless-paragraph{
         font-size: 30px;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-        
+        font-family:"Poppins", sans-serif;
     }
     #atRasi-paragraph{
         font-size: 15px;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        font-family:"Poppins", sans-serif;
     }
     #contact-Us2{
         border-radius: 30%;
@@ -332,10 +335,10 @@ text-align: center;
         background-color: rgb(216, 235, 228);
         padding: 50px;
         font-size: 25px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        font-family:"Poppins", sans-serif;
     }
     h1{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family:"Poppins", sans-serif;
         font-size: 40px;
     }
     .trophy{
@@ -351,13 +354,13 @@ text-align: center;
         display:block;
     }
     .dive-paragraph{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: "Poppins", sans-serif;
         font-size: 30px;
     }
     .Rasis-Array{
     display:block;
     justify-content: space-around;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:"Poppins", sans-serif;
     }
     #traditional-textile{
         width: 100%;
